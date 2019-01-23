@@ -5,7 +5,7 @@ BUT in October 2018 Gartner wrote a [_Top 10 strategic technology trends for 201
 
 ## Blog posts
 #### Cats, Qubits, and Teleportation (Holly Cummins, InfoQ jun 2018)
-A 3 part blog post which gives a good high level introduction to the Quantum Information field. [Part 1](https://www.infoq.com/articles/quantum-computing-intro-one), [Part 2](https://www.infoq.com/articles/quantum-computing-algoritms-two), [Part 3](https://www.infoq.com/articles/quantum-computing-applications-three)
+A three part blog post with a good high level introduction to the Quantum Information field. [Part 1](https://www.infoq.com/articles/quantum-computing-intro-one), [Part 2](https://www.infoq.com/articles/quantum-computing-algoritms-two), [Part 3](https://www.infoq.com/articles/quantum-computing-applications-three)
 
 ## *Books*
 #### Practical Quantum Computing for Developers (Vladimir Silva, Apress dec 2018)
