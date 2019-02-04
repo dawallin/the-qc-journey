@@ -7,8 +7,8 @@ BUT in October 2018 Gartner wrote a [_Top 10 strategic technology trends for 201
 #### Cats, Qubits, and Teleportation (Holly Cummins, InfoQ Jun 2018)
 A three part blog post with a good high level introduction to the Quantum Information field. [Part 1](https://www.infoq.com/articles/quantum-computing-intro-one), [Part 2](https://www.infoq.com/articles/quantum-computing-algoritms-two), [Part 3](https://www.infoq.com/articles/quantum-computing-applications-three)
 
-#### [QC - Quantum Computing Series](https://medium.com/@jonathan_hui/qc-quantum-computing-series-10ddd7977abd)
-Jonathan Hui has a great multi series introduction.
+#### QC - Quantum Computing Series
+Jonathan Hui has a great [Quantum Computing Series](https://medium.com/@jonathan_hui/qc-quantum-computing-series-10ddd7977abd).
 ##### [Part 1](https://medium.com/@jonathan_hui/qc-what-is-a-quantum-computer-222edc3a887d) - What is a Quantum Compuiter?
 ##### [Part 2](https://medium.com/@jonathan_hui/qc-what-are-qubits-in-quantum-computing-cdb3cb566595) - What are Qubits in Quantum computing?
 ##### [Part 3](https://medium.com/@jonathan_hui/qc-how-to-build-a-quantum-computer-with-superconducting-circuit-4c30b1b296cd) - How to build a Quantum Computer with Superconduction Circuit?
